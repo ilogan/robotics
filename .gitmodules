@@ -1,0 +1,15 @@
+[submodule "rover_search"]
+	path = rover_search
+	url = git@github.com:ilogan/RoboND-Rover-Project.git
+[submodule "kinematic_arm"]
+	path = kinematic_arm
+	url = git@github.com:ilogan/RoboND-Kinematics-Project.git
+[submodule "drone_follow_me"]
+	path = drone_follow_me
+	url = git@github.com:ilogan/RoboND-DeepLearning-Project.git
+[submodule "perception_robot/feature-training"]
+	path = perception_robot/feature-training
+	url = git@github.com:ilogan/RoboND-Perception-Exercises.git
+[submodule "perception_robot/main-project"]
+	path = perception_robot/main-project
+	url = git@github.com:ilogan/RoboND-Perception-Project.git
